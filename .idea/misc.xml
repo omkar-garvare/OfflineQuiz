@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Projects/OfflineQuize/app/src/main/res/drawable/round_back_green10.xml" value="0.1335" />
+        <entry key="..\:/Android_Projects/OfflineQuize/app/src/main/res/drawable/round_back_light_yellow10.xml" value="0.1335" />
+        <entry key="..\:/Android_Projects/OfflineQuize/app/src/main/res/drawable/round_back_red10.xml" value="0.1335" />
+        <entry key="..\:/Android_Projects/OfflineQuize/app/src/main/res/drawable/round_back_white10.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/OfflineQuize/app/src/main/res/drawable/round_back_white_stroke10.xml" value="0.1" />
+        <entry key="..\:/Android_Projects/OfflineQuize/app/src/main/res/drawable/round_back_white_stroke2_10.xml" value="0.1335" />
+        <entry key="..\:/Android_Projects/OfflineQuize/app/src/main/res/layout/activity_main.xml" value="0.16983695652173914" />
+        <entry key="..\:/Android_Projects/OfflineQuize/app/src/main/res/layout/activity_quize.xml" value="0.196875" />
+        <entry key="..\:/Android_Projects/OfflineQuize/app/src/main/res/layout/activity_quize_results.xml" value="0.196875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
